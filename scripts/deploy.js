@@ -1,3 +1,4 @@
+//
 async function main() {
 
     // Get our account (as deployer) to verify that a minimum wallet balance is available
